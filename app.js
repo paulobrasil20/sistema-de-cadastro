@@ -1,3 +1,7 @@
 console.log ("Rodando o sistema de gerenciamento de jogos")
 console.log ("Rodando o teste de cadastro")
+console.log ("Inserção local")
 console.log ("Rodando o teste de merge")
+console.log("teste novamente")
+console.log("alteração local")
+console.log("alteração local")
